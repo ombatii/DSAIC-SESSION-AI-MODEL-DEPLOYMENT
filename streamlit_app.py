@@ -12,7 +12,7 @@ st.info('This app builds a AI model on penguine dataset')
 
 with st.expander('Data'):
   st.write('**Raw data**')
-  df = pd.read_csv('penguins_data.csv')
+  df = pd.read_csv('https://raw.githubusercontent.com/ombatii/DSAIC-Deploying-AI-model/refs/heads/master/penguins_data.csv')
   df
 
   st.write('**X**')
