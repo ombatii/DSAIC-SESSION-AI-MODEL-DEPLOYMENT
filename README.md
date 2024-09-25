@@ -1,9 +1,10 @@
 # 📦 Streamlit App Starter Kit 
 ```
-⬆️ (Replace above with your app's name)
+😁DSAIC-SESSION-AI-MODEL-DEPLOYMENT
+
 ```
 
-Description of the app ...
+This project is a tutorial on how to deploy your model
 
 ## Demo App
 
