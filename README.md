@@ -8,7 +8,7 @@ This project is a tutorial on how to deploy your model
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dsaic-session-deploying-ai-model.app/)
 
 ## GitHub Codespaces
 
